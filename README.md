@@ -1,9 +1,8 @@
-## Hi there 👋, I'm Antonio <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0NzgxNmJjNDNzd2VrMHh3MGVqeGx6NjFqcmF4bWFhZTJ3cXlmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wlwIxMVudTM7ixaiTd/giphy.webp" width="50">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0NzgxNmJjNDNzd2VrMHh3MGVqeGx6NjFqcmF4bWFhZTJ3cXlmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wlwIxMVudTM7ixaiTd/giphy.webp" width="200">
 
-I'm a recent grad from <span style="color:blue;">Columbia University</span>. I enjoy creating web apps, learning about new tech, and programming my way \
-through life. If I'm not coding, I'm probably playing soccer ⚽, exploring restaurants 🍲, or obsessing over coffee beans ☕.
+### Hi there 👋, I'm Antonio 
 
-###
+I'm a recent grad from <span style="color:blue;">Columbia University</span>. I enjoy creating web apps, learning about new tech, and programming my way through life. If I'm not coding, I'm probably playing soccer ⚽, exploring restaurants 🍲, or obsessing over coffee beans ☕.
 
 <a href="https://antonioaranda.dev/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-1E3A8A?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"></a>
 <a href="mailto:me@antonioaranda.dev"><img src="https://img.shields.io/badge/Email-8331f5?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"></a>
@@ -47,4 +46,3 @@ through life. If I'm not coding, I'm probably playing soccer ⚽, exploring rest
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </p>
-
