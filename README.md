@@ -4,11 +4,11 @@
 
 I'm a recent grad from <span style="color:blue;">Columbia University</span>. I enjoy creating web apps, learning about new tech, and programming my way through life. If I'm not coding, I'm probably playing soccer ⚽, exploring restaurants 🍲, or obsessing over coffee beans ☕.
 
-<a href="https://antonioaranda.dev/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-1E3A8A?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"></a>
-<a href="mailto:me@antonioaranda.dev"><img src="https://img.shields.io/badge/Email-8331f5?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"></a>
+<a href="https://antonioaranda.dev/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-032585?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"></a>
+<a href="mailto:aranda-dev@proton.me"><img src="https://img.shields.io/badge/Email-8331f5?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"></a>
 <a href="https://www.linkedin.com/in/antonio-aranda1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://antonioaranda.dev"><img src="https://img.shields.io/badge/Portfolio-ed55a4?style=for-the-badge&logo=arc&logoColor=white" alt="Portfolio Badge"></a>
-<a href="https://x.com/aaranditoo"><img src="https://img.shields.io/badge/X%20(aaranditoo)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a>
+<a href="https://antonioaranda.dev"><img src="https://img.shields.io/badge/Portfolio-1900ff?style=for-the-badge&logo=arc&logoColor=white" alt="Portfolio Badge"></a>
+<a href="https://x.com/aaranditoo"><img src="https://img.shields.io/badge/X%20(aaranditoo)-090433?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a>
 
 ### 🚀 &nbsp;Experience
 
