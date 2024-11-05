@@ -12,6 +12,7 @@ I'm a recent grad from <span style="color:blue;">Columbia University</span>. I e
 
 ### 🚀 &nbsp;Experience
 
+- **Amazon Web Services**: Incoming SWE, AWS SDKs and Tools, Feb 2025
 - **Amazon Web Services**: SWE Intern, AWS SDK for Python (Boto3), Summer 2024
 - **Amazon**: SWE Intern, Alexa, Summer 2023
 - **A²R Lab**: Robotics Researcher, Trajectory Optimization Algos, Fall 2022 - Spring 2023
