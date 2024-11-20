@@ -2,13 +2,12 @@
 
 ### Hi there 👋, I'm Antonio 
 
-I'm a recent grad from <span style="color:blue;">Columbia University</span>. I enjoy creating web apps, learning about new tech, and programming my way through life. If I'm not coding, I'm probably playing soccer ⚽, exploring restaurants 🍲, or obsessing over coffee beans ☕.
+I'm a software engineer based in NYC and a recent CS grad from Columbia University.
 
-<a href="https://antonioaranda.dev/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-032585?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"></a>
+<a href="https://antoara.com/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-032585?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"></a>
 <a href="https://www.linkedin.com/in/antonio-aranda1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="mailto:aranda-dev@proton.me"><img src="https://img.shields.io/badge/Email-8331f5?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"></a>
-<a href="https://antonioaranda.dev"><img src="https://img.shields.io/badge/Portfolio-100666?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"></a>
-<a href="https://x.com/aaranditoo"><img src="https://img.shields.io/badge/X%20(aaranditoo)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a>
+<a href="https://antoara.com"><img src="https://img.shields.io/badge/Portfolio-100666?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"></a>
 
 ### 🚀 &nbsp;Experience
 
@@ -16,7 +15,6 @@ I'm a recent grad from <span style="color:blue;">Columbia University</span>. I e
 - **Amazon Web Services**: SWE Intern, AWS SDK for Python (Boto3), Summer 2024
 - **Amazon**: SWE Intern, Alexa, Summer 2023
 - **A²R Lab**: Robotics Researcher, Trajectory Optimization Algos, Fall 2022 - Spring 2023
-- **Columbia**: Teaching Assistant, Data Structures, Fall 2022
 
 ### 📚 &nbsp;Languages
 
@@ -29,7 +27,6 @@ I'm a recent grad from <span style="color:blue;">Columbia University</span>. I e
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-<img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </p>
 
@@ -44,8 +41,6 @@ I'm a recent grad from <span style="color:blue;">Columbia University</span>. I e
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" **alt="GitHub Actions" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
 </p>
