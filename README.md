@@ -1,5 +1,3 @@
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0NzgxNmJjNDNzd2VrMHh3MGVqeGx6NjFqcmF4bWFhZTJ3cXlmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wlwIxMVudTM7ixaiTd/giphy.webp" width="200">
-
 ### Hi there 👋, I'm Antonio 
 
 I'm a software engineer based in NYC and a recent CS grad from Columbia University.
