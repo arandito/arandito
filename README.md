@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Antonio 
 
-I'm a software engineer based in NYC and a recent CS grad from Columbia University.
+I'm a software engineer based in NYC working on the AWS Boto3/Botocore team 🐍.
 
 <a href="https://antoara.com/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-032585?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"></a>
 <a href="https://www.linkedin.com/in/antonio-aranda1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -9,7 +9,7 @@ I'm a software engineer based in NYC and a recent CS grad from Columbia Universi
 
 ### 🚀 &nbsp;Experience
 
-- **Amazon Web Services**: SWE, AWS SDK for Python (Boto3), Feb 2025
-- **Amazon Web Services**: SWE Intern, AWS SDK for Python (Boto3), Summer 2024
+- **Amazon Web Services**: SWE, AWS SDKs, Feb 2025 - Present
+- **Amazon Web Services**: SWE Intern, AWS SDKs, Summer 2024
 - **Amazon**: SWE Intern, Alexa, Summer 2023
 - **A²R Lab**: Robotics Researcher, Trajectory Optimization Algos, Fall 2022 - Spring 2023
