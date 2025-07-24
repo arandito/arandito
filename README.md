@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Antonio 
 
-I'm a software engineer based in NYC working on the AWS Boto3/Botocore team 🐍.
+I'm a software engineer based in NYC working on the AWS Python SDK team 🐍.
 
 <a href="https://antoara.com/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-032585?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"></a>
 <a href="https://www.linkedin.com/in/antonio-aranda1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
