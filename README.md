@@ -1,4 +1,4 @@
-### Hey! I'm Antonio 
+### Hey there! I'm Antonio 
 
 I'm a software engineer based in NYC working on the AWS Python SDK team 🐍.
 
