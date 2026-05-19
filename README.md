@@ -7,7 +7,7 @@ I'm a software engineer based in NYC working on the AWS SDK for Python team 🐍
 
 ### 🚀 &nbsp;Experience
 
-- **Amazon Web Services**: SWE, AWS SDKs, Feb 2025 - Present
-- **Amazon Web Services**: SWE Intern, AWS SDKs, Summer 2024
+- **AWS**: SWE, SDKs and Tools, Feb 2025 - Present
+- **AWS**: SWE Intern, SDKs and Tools, Summer 2024
 - **Amazon**: SWE Intern, Alexa, Summer 2023
 - **A²R Lab**: Robotics Researcher, Trajectory Optimization Algos, Fall 2022 - Spring 2023
